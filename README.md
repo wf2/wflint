@@ -3,8 +3,7 @@
 Install the module with: `npm install wflint`
 
 ```js
-var wflint = require('wflint');
-wflint.awesome(); // "awesome"
+var jshintConfig = require('wflint').jshint;
 ```
 
 ## Documentation
