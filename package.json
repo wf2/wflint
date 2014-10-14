@@ -1,0 +1,38 @@
+{
+  "name": "wflint",
+  "version": "0.0.0",
+  "main": "lib/wflint.js",
+  "description": "lint configuration",
+  "homepage": "https://github.com/wf2/wflint",
+  "bugs": "https://github.com/wf2/wflint/issues",
+  "author": {
+    "name": "nathan comstock",
+    "email": "nathan.m.comstock@gmail.com",
+    "url": "https://github.com/wf2/wflint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wf2/wflint"
+  },
+  "license": "none",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "wflint",
+    ""
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-cli": "^1.9.0",
+    "grunt-release": "^0.7.0",
+    "jshint-stylish": "^0.2.0",
+    "load-grunt-tasks": "^0.4.0",
+    "time-grunt": "^0.3.1"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
