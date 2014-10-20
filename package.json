@@ -1,6 +1,6 @@
 {
   "name": "wflint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/wflint.js",
   "description": "lint configuration",
   "homepage": "https://github.com/wf2/wflint",
