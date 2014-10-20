@@ -1,13 +1,16 @@
 ## Getting Started
-
 Install the module with: `npm install wflint`
+
+## Documentation
+Contains `jshint` configuration.
+
+## Examples
 
 ```js
 var jshintConfig = require('wflint').jshint;
 ```
 
-## Documentation
-_(Coming soon)_
 
-## Examples
-_(Coming soon)_
+## Developers
+
+Release new version with ```grunt release:patch```
